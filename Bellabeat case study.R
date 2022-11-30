@@ -749,7 +749,6 @@ ggplot(data=activity, aes(x=totalsteps, y=calories)) +
 `geom_smooth()` using method = 'loess' and formula = 'y ~ x'
 
 
-https://6fabb64006ad4dc5b8a216b719de2d1f.app.posit.cloud/graphics/plot.png?width=652&height=518&randomizer=-1233584153
 
 
 I see a positive correlation between total steps and calories, the more steps we take, the more calories
